@@ -38,3 +38,5 @@ Author: [Krishap-s](https://github.com/Krishap-s)
 
 - By trying all 3 character permutations of ascii characters with ```do_stuff()``` and comparing with the series of numbers given in the comments we can bruteforce the flag
 
+## Flag:
+```CTF{w4rmup-kn4ps4ck-ftw!}``` 
